@@ -20,3 +20,6 @@ This project analyzes bike sales data using Excel, SQL, Python, and Power BI to 
 - Customer Analysis
 - Product Performance
 - Revenue & Profit Analysis
+
+by
+Mabu Sameera J
